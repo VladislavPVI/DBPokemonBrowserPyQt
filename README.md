@@ -9,6 +9,6 @@
 Кнопки bt2 и bt3 выполняют запрос по выводу таблицы в Tab4 и Tab5
 
 
-<img src="https://github.com/VladislavPVI/DBPokemonBrowserPyQt/blob/master/img/2.png />
+<img src="https://github.com/VladislavPVI/DBPokemonBrowserPyQt/blob/master/img/2.png" />
 
 
